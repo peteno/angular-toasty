@@ -16,7 +16,7 @@
     	"src"
     ],
     "dependencies": {
-        "angular": "~1.6.x"
+        "angular": "~1.7.x"
     },
     "homepage": "https://github.com/teamfa/angular-toasty",
     "repository": {
